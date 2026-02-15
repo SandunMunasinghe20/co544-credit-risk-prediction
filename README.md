@@ -64,6 +64,3 @@ The system prioritizes recall for the high-risk class to minimize false negative
 - Scikit-learn
 - Matplotlib
 - Seaborn
-- Imbalanced-learn
-
-## Project Structure
